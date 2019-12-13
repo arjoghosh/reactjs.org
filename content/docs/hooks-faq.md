@@ -48,7 +48,7 @@ This page answers some of the frequently asked questions about [Hooks](/docs/hoo
   * [Is it safe to omit functions from the list of dependencies?](#is-it-safe-to-omit-functions-from-the-list-of-dependencies)
   * [What can I do if my effect dependencies change too often?](#what-can-i-do-if-my-effect-dependencies-change-too-often)
   * [How do I implement shouldComponentUpdate?](#how-do-i-implement-shouldcomponentupdate)
-  * [How to memoize calculations?](#how-to-memoize-calculations)
+  * [How to memorize calculations?](#how-to-memoize-calculations)
   * [How to create expensive objects lazily?](#how-to-create-expensive-objects-lazily)
   * [Are Hooks slow because of creating functions in render?](#are-hooks-slow-because-of-creating-functions-in-render)
   * [How to avoid passing callbacks down?](#how-to-avoid-passing-callbacks-down)
